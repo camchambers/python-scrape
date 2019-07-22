@@ -1,8 +1,5 @@
 # An example of scraping web pages with python using the BeautifulSoup library
 
-# Used for handling program arguments
-import sys
-
 # Used for making HTTP requests
 import requests
 
